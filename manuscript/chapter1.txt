@@ -1,0 +1,4 @@
+# Visualisera felen
+
+Jenkins radiator i varje teamrum.
+Vem som orsakat felet och när det senast var grönt.
