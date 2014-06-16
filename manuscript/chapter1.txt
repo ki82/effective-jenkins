@@ -1,4 +1,4 @@
 # Visualisera felen
 
 Jenkins radiator i varje teamrum.
-Vem som orsakat felet och när det senast var grönt.
+Vem som orsakat felet och nï¿½r det senast var grï¿½nt.
