@@ -1,3 +1,4 @@
 Visualize Errors.txt
+Communicate error fixing.txt
 chapter2.txt
 chapter3.txt
