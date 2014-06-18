@@ -1,0 +1,12 @@
+# Visualize build status
+
+It is very important that everyone working with a product knows the current build status at all times. Telling people to go to the normal Jenkins web page is not enough since when something start to fail we wan't to push out the information fast to everyone instead of letting users pull for the status manually.
+
+One way to achieve this push mechanism is to setup several screens in the working areas so that at least one screen is visible from all work stations. 
+
+The screens should show the current build status and not be disturbing if everything goes green. If something starts to fail it is good if the screen is a bit annoying because we wan't someone to take immediate action.
+
+Information about what is failing in details and who caused it is also useful.
+
+Further reading:
+Jenkins Radiator Plugin
